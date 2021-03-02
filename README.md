@@ -1,4 +1,4 @@
-# Android with Cotlin just for fun
+# Android with Kotlin just for fun
 
 To Do:
 1. Come up with something
